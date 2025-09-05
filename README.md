@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💌 ** KooL's Arch - скрипт установки Hyprland ** 💌
+# 💌 **KooL's Arch — скрипт установки Hyprland** 💌
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/svglan/Hyprland-Dots/main/assets/latte.png" width="400" />
