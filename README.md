@@ -220,10 +220,10 @@ env = WLR_RENDERER_ALLOW_SOFTWARE,1
 
 ## 💖 Поддержка
 - Буду рад вашей ⭐ на репозиториях GitHub
-- Подпишитесь на мой канал YouTube [YouTube](https://www.youtube.com/@Ja.KooLit)
+- Подпишитесь на мой канал YouTube [YouTube](https://www.youtube.com/@svglan)
 - Вы также можете поддержать меня кофе или BTC 😊
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jakoolit)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/svglan)
 
 или
 
