@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/JaKooLit 💫 #
+# 💫 https://github.com/svglan/hypr 💫 #
 # Global Functions for Scripts #
 
 set -e

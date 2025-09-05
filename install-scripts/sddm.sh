@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/JaKooLit 💫 #
+# 💫 https://github.com/svglan/hypr 💫 #
 # SDDM Log-in Manager #
 
 sddm=( 
