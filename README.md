@@ -1,12 +1,13 @@
 <div align="center">
 
-# 💌 ** KooL's Arch - Hyprland Install Script ** 💌
+# 💌 **Arch — скрипт установки Hyprland** 💌
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/svglan/Hyprland-Dots/main/assets/latte.png" width="400" />
 </p>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/svglan/hypr?style=for-the-badge&color=cba6f7) ![GitHub last commit](https://img.shields.io/github/last-commit/svglan/hypr?style=for-the-badge&color=b4befe) ![GitHub repo size](https://img.shields.io/github/repo-size/svglan/hypr?style=for-the-badge&color=cba6f7) <a href="https://discord.gg/kool-tech-world"> <img src="https://img.shields.io/discord/1151869464405606400?style=for-the-badge&logo=discord&color=cba6f7&link=https%3A%2F%2Fdiscord.gg%kool-tech-world"> </a>
+codex/replace-repository-links-with-mine-pwb4d6
 
 
 <br/>
@@ -14,27 +15,29 @@
 
 <div align="center">
 <br>
-  <a href="#-announcement-"><kbd> <br> Read this First <br> </kbd></a>&ensp;&ensp;
-  <a href="#-to-use-this-script"><kbd> <br> How to use this script <br> </kbd></a>&ensp;&ensp;
-  <a href="#gallery-and-videos"><kbd> <br> Gallery <br> </kbd></a>&ensp;&ensp;
- </div><br>
+  <a href="#announcement"><kbd> <br> Прочитайте это сначала <br> </kbd></a>&ensp;&ensp;
+  <a href="#use-this-script"><kbd> <br> Как использовать этот скрипт <br> </kbd></a>&ensp;&ensp;
+  <a href="#gallery-and-videos"><kbd> <br> Галерея <br> </kbd></a>&ensp;&ensp;
+</div><br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/svglan/Hyprland-Dots/main/assets/latte.png" width="200" />
 </p>
 
 <div align="center">
-👇 KOOL's Hyprland-Dots related Links 👇
+👇 Ссылки, связанные с Hyprland-Dots от KooL 👇
 <br/>
 </div>
 <div align="center">
 <br>
+  <a href="https://github.com/svglan/Hyprland-Dots"><kbd> <br> Репозиторий Hyprland-Dots <br> </kbd></a>&ensp;&ensp;
+  <a href="https://github.com/svglan/Hyprland-Dots/wiki"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
+  <a href="https://github.com/svglan/Hyprland-Dots/wiki/Keybinds"><kbd> <br> Комбинации клавиш <br> </kbd></a>&ensp;&ensp;
+=======
   <a href="https://github.com/svglan/Hyprland-Dots"><kbd> <br> Hyprland-Dots repo <br> </kbd></a>&ensp;&ensp;
-  <a href="https://www.youtube.com/playlist?list=PLDtGd5Fw5_GjXCznR0BzCJJDIQSZJRbxx"><kbd> <br> Youtube <br> </kbd></a>&ensp;&ensp;
   <a href="https://github.com/svglan/Hyprland-Dots/wiki"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
   <a href="https://github.com/svglan/Hyprland-Dots/wiki/Keybinds"><kbd> <br> Keybinds <br> </kbd></a>&ensp;&ensp;
   <a href="https://github.com/svglan/Hyprland-Dots/wiki/FAQ"><kbd> <br> FAQ <br> </kbd></a>&ensp;&ensp;
-  <a href="https://discord.gg/kool-tech-world"><kbd> <br> Discord <br> </kbd></a>
 </div><br>
 
 <p align="center">
@@ -42,9 +45,15 @@
 </p>
 
 <h3 align="center">
+ codex/replace-repository-links-with-mine-pwb4d6
+        <img src="https://github.com/svglan/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
+        Презентация Hyprland-Dotfiles от KooL
+        <img src="https://github.com/svglan/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
+
 	<img src="https://github.com/svglan/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
 	KooL Hyprland-Dotfiles Showcase 
 	<img src="https://github.com/svglan/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
+
 </h3>
 
 <div align="center">
@@ -53,11 +62,20 @@ https://github.com/user-attachments/assets/49bc12b2-abaf-45de-a21c-67aacd9bb872
 
 </div>
 
-### Gallery and Videos
-#### 🎥 Feb 2025 Video explanation of installation with preset
+<a id="gallery-and-videos"></a>
+### Галерея и видео
+#### 🎙️ Видео‑объяснение установки (февраль 2025) с пресетом
 - [YOUTUBE-LINK](https://youtu.be/wQ70lo7P6vA?si=_QcbrNKh_Bg0L3wC)
 - [YOUTUBE-Hyprland-Playlist](https://youtube.com/playlist?list=PLDtGd5Fw5_GjXCznR0BzCJJDIQSZJRbxx&si=iaNjLulFdsZ6AV-t)
 
+
+<a id="announcement"></a>
+### 🪧🪧🪧 ОБЪЯВЛЕНИЕ 🪧🪧🪧
+- В этом репозитории нет конфигов Hyprland! Dotfiles находятся здесь: [`Hyprland-Dots`](https://github.com/svglan/Hyprland-Dots). Во время установки, если вы выберете копирование преднастроенных конфигов, они будут скачаны из этого централизованного репозитория.
+- Hyprland-Dots постоянно развиваются и улучшаются. CHANGELOG можно посмотреть здесь: [`Hyprland-Dots-Changelogs`](https://github.com/svglan/Hyprland-Dots/wiki/Changelogs)
+- Так как Hyprland-Dots эволюционируют, некоторые скриншоты могут быть устаревшими.
+- Предлагаемые в конце установки обои берутся из этого [`репозитория`](https://github.com/svglan/Wallpaper-Bank)
+=======
     
 ### 🪧🪧🪧 ANNOUNCEMENT 🪧🪧🪧
 - This Repo does not contain Hyprland Dots or configs! Dotfiles can be checked here [`Hyprland-Dots`](https://github.com/svglan/Hyprland-Dots) . During installation, if you opt to copy pre-configured dots, it will be downloaded from that centralized repo.
@@ -65,29 +83,37 @@ https://github.com/user-attachments/assets/49bc12b2-abaf-45de-a21c-67aacd9bb872
 - Since the Hyprland-Dots are evolving, some of the screenshots maybe old
 - the wallpaper offered to be downloaded towards the end is from this [`REPO`](https://github.com/svglan/Wallpaper-Bank)
 
+
 > [!IMPORTANT]
-> install a backup tool like `snapper` or `timeshift`. and Backup your system before installing hyprland using this script (HIGHLY RECOMMENDED)
+> установите средство резервного копирования вроде `snapper` или `timeshift`. Сделайте резервную копию системы перед установкой Hyprland (НАСТОЯТЕЛЬНО РЕКОМЕНДУЕТСЯ)
 
-> [!CAUTION] 
-> Download this script on a directory where you have write permissions. ie. HOME. Or any directory within your home directory. Else script will fail
+> [!CAUTION]
+> Скачивайте этот скрипт в каталог, где у вас есть права на запись (например, домашний каталог). В противном случае скрипт завершится с ошибкой.
 
-#### 🆕  Prerequisites
-- This install script is intended for atleast Server type / Minimal Arch Linux installed.
+#### 🆕 Предварительные требования
+- Этот скрипт установки рассчитан минимум на установленную Arch Linux типа Server/Minimal.
 
 > [!NOTE]
-> 🔘 Pipewire and Pipewire audio
-- This script will install pipewire and will also disable or will uninstall pulseaudio. If you dont want it, edit install.sh, about line 191 and comment the line  `execute_script "pipewire.sh"` or you can simply just delete pipewire.sh in install-scripts directory before installing. 
+> 🔘 Pipewire и Pipewire audio  
+> Скрипт установит Pipewire и отключит или удалит PulseAudio. Если это не требуется, отредактируйте install.sh около строки 191 и закомментируйте строку `execute_script "pipewire.sh"` либо просто удалите `pipewire.sh` из каталога install-scripts перед установкой.
 
-#### ✨ Customize the packages to be installed
-- inside the install-scripts directory, you can edit 00-hypr-pkgs.sh. Care though as the Hyprland Dots may not work properly!
+#### ✨ Настройка устанавливаемых пакетов
+- В каталоге install-scripts вы можете отредактировать `00-hypr-pkgs.sh`. Однако будьте осторожны, иначе Hyprland-Dots могут работать некорректно!
 
-#### 🚩 Switching to SDDM assuming you have GDM installed and running
-- if you really want switch to SDDM from GDM, you need to disable the gdm first.
-- `sudo systemctl disable gdm.service` then reboot
-- after reboot, need to ran the install script via tty. So suggest download the install script first. Then disable gdm. reboot and once logged in, cd into Distro-Hyprland then `./install.sh` and then choose SDDM and SDDM theme in the options. 
-- NOTE: Distro-Hyprland is Arch-Hyprland, or Fedora-Hyprland .. depends on which install scripts you downloaded.
+#### 🚩 Переход на SDDM, если установлен и работает GDM
+- Если действительно хотите заменить GDM на SDDM, сначала отключите gdm.
+- `sudo systemctl disable gdm.service`, затем перезагрузитесь.
+- После перезагрузки запуските скрипт установки через tty. Рекомендуется сначала скачать скрипт, затем отключить gdm, перезагрузиться и после входа выполнить `cd Distro-Hyprland` и `./install.sh`, далее выбрать SDDM и тему SDDM в опциях.
+- Примечание: Distro-Hyprland — это Arch-Hyprland или Fedora-Hyprland и т. д., в зависимости от скачанных скриптов.
+
+#### 🔋 Предлагаемые темы SDDM и GTK
+- Если вы выбрали установку темы SDDM, вот [`ссылка`](https://github.com/svglan/simple-sddm-2) — модифицированный форк [`этого репозитория`](https://github.com/Keyitdev/sddm-astronaut-theme)
+- Если вы выбрали установку GTK‑тем и иконок, вот [`ссылка`](https://github.com/svglan/GTK-themes-icons). Включает курсор Bibata Modern Ice.
 
 
+#### 👀 Владельцам видеокарт NVidia
+- По умолчанию будет установлен `nvidia-dkms`, который поддерживает GTX 900 и новее. Для установки старого драйвера отредактируйте `nvidia.sh` в каталоге install-scripts.
+=======
 #### 💫 SDDM and GTK Themes offered
 - If you opted to install SDDM theme, here's the [`LINK`](https://github.com/svglan/simple-sddm-2) which is a modified fork of [`LINK`](https://github.com/Keyitdev/sddm-astronaut-theme)
 - If you opted to install GTK Themes, Icons,  here's the [`LINK`](https://github.com/svglan/GTK-themes-icons). This also includes Bibata Modern Ice cursor.
@@ -96,22 +122,27 @@ https://github.com/user-attachments/assets/49bc12b2-abaf-45de-a21c-67aacd9bb872
 - By default, nvidia-dkms will be installed. and only supports GTX 900 and newer. If required to install older driver, edit the nvidia.sh in install-scripts directory
 
 > [!IMPORTANT]
-> If you want to use nouveau driver, dont choose nvidia in the option. This is because the nvidia installer part, it will blacklist nouveau. Hyprland will still be installed but it will skip blacklisting nouveau.
+> Если хотите использовать драйвер nouveau, не выбирайте опцию nvidia. Потому что в части установки nvidia драйвер будет вносить nouveau в blacklist. Hyprland всё равно установится, но пропустит блокировку nouveau.
 
+
+- После установки ознакомьтесь с [`ЭТИМ`](https://github.com/svglan/Hyprland-Dots/wiki/Notes_to_remember#--for-nvidia-gpu-users)
+=======
 - After installation, check [`THIS`](https://github.com/svglan/Hyprland-Dots/wiki/Notes_to_remember#--for-nvidia-gpu-users)
 
-## ✨ Auto clone and install
-> [!CAUTION] 
-> If you are using FISH SHELL, DO NOT use this function. Clone and ran install.sh instead
 
-- you can use this command to automatically clone the installer and ran the script for you
-- NOTE: `curl` package is required before running this command
+## ✨ Автоклонирование и установка
+> [!CAUTION]
+> Если используете FISH SHELL, НЕ применяйте эту функцию. Вместо этого клонируйте и запускайте install.sh
+
+- Можно использовать эту команду для автоматического клонирования установщика и запуска скрипта
+- Примечание: перед выполнением команды должен быть установлен пакет `curl`
 ```bash
 sh <(curl -L https://raw.githubusercontent.com/svglan/hypr/main/auto-install.sh)
 ```
 
-## ✨ to use this script
-- clone this repo (latest commit only) to reduce file size download by using git. Change directory, make executable and run the script
+<a id="use-this-script"></a>
+## ✨ Как использовать этот скрипт
+- Клонируйте этот репозиторий (только последний коммит) для уменьшения объёма загрузки, затем перейдите в каталог, сделайте файл исполняемым и запустите скрипт
 
 ```bash
 git clone --depth=1 https://github.com/svglan/hypr.git ~/hypr
@@ -120,26 +151,37 @@ chmod +x install.sh
 ./install.sh
 ```
 
-### 💥 💥  UNINSTALL SCRIPT / Removal of Config Files
-- 11 March 2025, due to popular request, created a guided `uninstall.sh` script. USE this with caution as it may render your system unstable.
-- I will not be responsible if your system breaks
-- The best still to revert to previous state of your system is via `timeshift or snapper`
+### 💥 💥 Скрипт удаления / удаление конфигов
+- 11 марта 2025 года по многочисленным просьбам создан скрипт `uninstall.sh`. Используйте его с осторожностью, он может сделать систему нестабильной.
+- Я не несу ответственности, если ваша система выйдет из строя.
+- Лучший способ вернуть систему в прежнее состояние — использовать `timeshift` или `snapper`.
 
-#### ✨ for ZSH and OH-MY-ZSH installation
-> installer should auto change your default shell to zsh. However, if it does not, do this
+#### ✨ Установка ZSH и OH-MY-ZSH
+> установщик должен автоматически изменить вашу оболочку по умолчанию на zsh. Если этого не произошло, выполните
 ```bash
 chsh -s $(which zsh)
 zsh
 source ~/.zshrc
 ```
-- reboot or logout
-- by default `agnosterzak` theme is installed. Which is from external oh-my-zsh theme. You can find more themes from this [`OH-MY-ZSH-THEMES`](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
-- to change the theme, `SUPER SHIFT O` , choose  desired theme, and close and open terminal. 
-- or manually edit `~/.zshrc` . Look for ZSH_THEME="desired theme"
+- перезагрузитесь или выйдите из системы
+- по умолчанию устанавливается тема `agnosterzak` из внешнего репозитория oh-my-zsh. Больше тем можно найти здесь: [`OH-MY-ZSH-THEMES`](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
+- чтобы сменить тему, нажмите `SUPER SHIFT O`, выберите нужную тему и откройте терминал заново.
+- либо вручную отредактируйте `~/.zshrc`. Найдите `ZSH_THEME="желаемая тема"`
 
-#### 🎞️ AGS Overview DEMO
-- in case you wonder, here is a short demo of AGS overview [Youtube LINK](https://youtu.be/zY5SLNPBJTs)
+#### 🎞️ Демонстрация AGS Overview
+- если интересно, вот короткое демо AGS overview [ссылка на YouTube](https://youtu.be/zY5SLNPBJTs)
 
+
+#### ✨ Что сделать после установки и копирования dotfiles
+- `SUPER H` для подсказок или нажмите кнопку HINT! на waybar
+- Загляните в [вики KooL Hyprland](https://github.com/svglan/Hyprland-Dots/wiki)
+
+#### 🙋 Есть вопросы по Hyprland Dots или конфигурациям?
+- Перейдите по ссылке на вики [`WIKI`](https://github.com/svglan/Hyprland-Dots/wiki)
+
+#### ⌨ Комбинации клавиш
+- Комбинации клавиш [`КЛИК`](https://github.com/svglan/Hyprland-Dots/wiki/Keybinds)
+=======
 #### ✨ TO DO once installation done and dotfiles copied
 - SUPER H for HINT or click on the waybar HINT! Button 
 - Head over to [KooL Hyprland WIKI](https://github.com/svglan/Hyprland-Dots/wiki)
@@ -151,56 +193,70 @@ source ~/.zshrc
 - Keybinds [`CLICK`](https://github.com/svglan/Hyprland-Dots/wiki/Keybinds)
 
 > [!TIP]
-> KooL Hyprland has a searchable keybind function via rofi. (SUPER SHIFT K) or right click the `HINTS` waybar button
+> KooL Hyprland имеет функцию поиска комбинаций клавиш через rofi. (SUPER SHIFT K) или правый клик по кнопке `HINTS` на waybar.
+
+#### 🔄 Переключение между Hyprland-git и обычным Hyprland
+- Можно использовать подготовленный мной скрипт [`ссылка`](https://github.com/svglan/hypr/tree/main/assets/hyprland-install)
+- Там же есть README
 
 
+#### 🙋 👋 Проблемы или вопросы?
+- По части установки пожалуйста создайте issue в этом репозитории
+- По преднастроенным конфигам Hyprland создавайте issue [`здесь`](https://github.com/svglan/Hyprland-Dots/issues)
+=======
 #### 🔄 switching between Hyprland-git and none Hyprland-git
 - you can use my prepared script [`LINK`](https://github.com/svglan/hypr/tree/main/assets/hyprland-install)
 - Readme is also there
 
 
+#### 🔧 Правильный способ переустановить конкретный скрипт из каталога install-scripts
+- Перейдите в каталог Arch-Hyprland и выполните команду ниже.
+- Например: `./install-scripts/gtk-themes.sh` — для переустановки GTK‑тем
+- или `./install-scripts/sddm.sh` — для переустановки SDDM
+
+
+> [!IMPORTANT]
+> НЕ переходите в каталог install-scripts, иначе скрипт, скорее всего, завершится с ошибкой
+=======
 #### 🙋 👋 Having issues or questions? 
 - for the install part, kindly open issue on this repo
 - for the Pre-configured Hyprland dots / configuration, submit issue [`here`](https://github.com/svglan/Hyprland-Dots/issues)
 
-#### 🔧 Proper way to re-installing a particular script from install-scripts directory
-- CD into Arch-Hyprland directory and then ran the below command. 
-- i.e. `./install-scripts/gtk-themes.sh` - For reinstall GTK Themes or
-- `./install-scripts/sddm.sh` - For reinstall sddm
 
-> [!IMPORTANT]
-> DO NOT cd into install-scripts directory as script will most likely to fail
+#### 🛣️ Дорожная карта:
+- [ ] показать индикатор прогресса при загрузке и компиляции пакетов за пределами AUR или официального репозитория
 
-#### 🛣️ Roadmap:
-- [ ] show a progress bar in downloading and compiling part when installing outside AUR or official repo
-
-#### ❗ some known issues for nvidia
-- reports from members of my discord, states that some users of nvidia are getting stuck on sddm login. credit  to @Kenni Fix stated was 
-```  
- while in sddm press ctrl+alt+F2 or F3
-log into your account
-`lspci -nn`, find the id of your nvidia card
-`ls /dev/dri/by-path` find the matching id
-`ls -l /dev/dri/by-path` to check where the symlink points to 
+#### ❗ Некоторые известные проблемы с NVIDIA
+- Отчёты участников моего Discord: некоторые пользователи NVIDIA застревают на логине SDDM. Исправление от @Kenni:
+```
+ при загрузке в sddm нажмите ctrl+alt+F2 или F3
+войдите в свою учетную запись
+lspci -nn — найдите идентификатор вашей карты NVIDIA
+ls /dev/dri/by-path — найдите соответствующий идентификатор
+ls -l /dev/dri/by-path — проверьте, куда указывает симлинк
 )
 ```
-- add "env = WLR_DRM_DEVICES,/dev/dri/cardX" to the ENVvariables config `~/.config/hypr/UserConfigs/ENVariables.conf`  ; X being where the symlink of the gpu points to
+- Добавьте `env = WLR_DRM_DEVICES,/dev/dri/cardX` в конфиг ENVvariables `~/.config/hypr/UserConfigs/ENVariables.conf`, где X — номер устройства, на которое указывает симлинк.
 
-- more info from the hyprland wiki [`Hyprland Wiki Link`](https://wiki.hyprland.org/FAQ/#my-external-monitor-is-blank--doesnt-render--receives-no-signal-laptop)
+- Подробнее в вики Hyprland [`Hyprland Wiki Link`](https://wiki.hyprland.org/FAQ/#my-external-monitor-is-blank--doesnt-render--receives-no-signal-laptop)
 
-
-- reports from a member of discord for Nvidia for additional env's
-- remove # from the following env's on 
+- Сообщения от участника Discord для NVIDIA о дополнительных переменных окружения:
+- уберите # у следующих переменных:
 ```
 env = GBM_BACKEND,nvidia-drm
 env = WLR_RENDERER_ALLOW_SOFTWARE,1
 ```
-
-#### ❗ other known issues
-- [ ] If you are using this script on an Arch-Based distros like Arco linux, or cachy OS or EOS or Manjaro, make sure to install pipewire, pipewire-pulse & pipewire-audio first. Arco Linux, on some of their ISO's still shipped with pulseaudio as audio backend. You will experience getting "stuck" on installation.
-- [ ] To install pipewire and its services , `sudo pacman -S pipewire wireplumber pipewire-audio pipewire-pulse` . When prompted, remove / replace pulseaudio. After that, you can ran `./install.sh`
-- [ ] installing of cava-git on a newly installed Arch makes the install keep hanging. Switched back to cava. After booting and logged in, if cava dont work, replace it cava-git `yay -S cava-git` or `paru -S cava-git` 
+#### ❗ Другие известные проблемы
+- [ ] Если вы используете этот скрипт на дистрибутивах на базе Arch (Arco Linux, CachyOS, EOS, Manjaro и т. д.), убедитесь, что сначала установлены pipewire, pipewire-pulse и pipewire-audio. В некоторых ISO Arco Linux по-прежнему используется pulseaudio, что может привести к зависанию установки.
+- [ ] Для установки pipewire и служб выполните `sudo pacman -S pipewire wireplumber pipewire-audio pipewire-pulse`. При необходимости удалите/замените pulseaudio. После этого можно запускать `./install.sh`
+- [ ] Установка cava-git на свежеустановленном Arch может зависнуть. Используем обычную cava. После загрузки и входа, если cava не работает, замените её на cava-git: `yay -S cava-git` или `paru -S cava-git`
 > [!NOTE]
+
+> Автоматический запуск Hyprland после входа (без SDDM, GDM или других менеджеров входа)
+- [ ] Эта функция была отключена (19 мая 2024). Это потому, что некоторые пользователи, используя скрипты Distro-Hyprland вместе с другими DE (gnome-wayland или plasma-wayland), при входе в gnome-wayland получали автозапуск Hyprland.
+- [ ] Чтобы избежать этого, функция отключена. Включить снова можно, отредактировав `~/.zprofile` и убрав # в первых строках.
+- [ ] Проблемы с ROFI (масштабирование и т. п.). Обычно появляются, если в системе уже установлен rofi. Удалите rofi и установите rofi-wayland: `sudo pacman -Rns rofi` затем `sudo pacman -S rofi-wayland`. Rofi-wayland совместим с x11, так что переживать не стоит.
+=======
 > Auto start of Hyprland after login (no SDDM or GDM or any login managers)
 - [ ] This was disabled a few days ago. (19 May 2024). This was because some users, after they used the Distro-Hyprland scripts with other DE (gnome-wayland or plasma-wayland), if they choose to login into gnome-wayland for example, Hyprland is starting. 
 - [ ] to avoid this, I disabled it. You can re-enable again by editing `~/.zprofile` . Remove all the # on the first lines
@@ -215,37 +271,62 @@ env = WLR_RENDERER_ALLOW_SOFTWARE,1
 - Feel free to copy, re-distribute, and use this script however you want. Would appreciate if you give me some loves by crediting my work :)
 
 
+#### 🫥 Улучшение производительности для старых карт NVIDIA с драйвером 470
+  - [`СМОТРЕТЬ ЗДЕСЬ`](https://github.com/svglan/Hyprland-Dots/discussions/123#discussion-6035205)
 
+#### 📒 Финальные заметки
+- Присоединяйтесь к моему каналу Discord [`Discord`](https://discord.com/invite/kool-tech-world)
+- Не стесняйтесь копировать, распространять, и использовать этот скрипт как хотите. Буду благодарен, если упомянете мой труд :)
+
+
+#### ✍️ Вклад
+- Как указано выше, в скриптах нет реальных конфигов. Это только установщик пакетов.
+- Если хотите внести вклад и/или протестировать Hyprland-Dotfiles (ветка development), смотрите [`Hyprland-Dots-Development`](https://github.com/svglan/Hyprland-Dots/tree/development)
+- Хотите помочь проекту KooL-Hyprland-Dots? Смотрите [`здесь`](https://github.com/svglan/Hyprland-Dots/blob/main/CONTRIBUTING.md), как внести вклад
+- Хотите помочь этому установщику? Смотрите [`здесь`](https://github.com/svglan/hypr/blob/main/CONTRIBUTING.md), как внести вклад
+=======
 #### ✍️ Contributing
 - As stated above, these script does not contain actual config files. These are only the installer of packages
 - If you want to contribute and/or test the Hyprland-Dotfiles (development branch), [`Hyprland-Dots-Development`](https://github.com/svglan/Hyprland-Dots/tree/development)
 - Want to contribute on KooL-Hyprland-Dots Click [`HERE`](https://github.com/svglan/Hyprland-Dots/blob/main/CONTRIBUTING.md) for a guide how to contribute
 - Want to contribute on This Installer? Click [`HERE`](https://github.com/svglan/hypr/blob/main/CONTRIBUTING.md) for a guide how to contribute
 
-#### 👍👍👍 Thanks and Credits!
-- [`Hyprland`](https://hyprland.org/) Of course to Hyprland and @vaxerski for this awesome Dynamic Tiling Manager.
 
-## 💖 Support
-- a Star on my Github repos would be nice 🌟
+#### 👍👍👍 Благодарности и кредиты!
+- [`Hyprland`](https://hyprland.org/) — конечно же Hyprland и @vaxerski за этот потрясающий динамический тайлинговый менеджер.
 
-- Subscribe to my Youtube Channel [YouTube](https://www.youtube.com/@Ja.KooLit) 
+## 💖 Поддержка
+- Буду рад вашей ⭐ на репозиториях GitHub
+- Подпишитесь на мой канал YouTube [YouTube](https://www.youtube.com/@svglan)
+- Вы также можете поддержать меня на [GitHub Sponsors](https://github.com/sponsors/svglan), кофе или BTC 😊
 
-- you can also give support through coffee's or btc 😊
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-svglan-cba6f7?style=for-the-badge&logo=github)](https://github.com/sponsors/svglan)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jakoolit)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/svglan)
 
-or
+или
 
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/svglan)
+
+
+Или вы можете пожертвовать криптовалюту на мой BTC кошелёк :)
+=======
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/svglan)
 
 Or you can donate cryto on my btc wallet :)  
+
 > 1N3MeV2dsX6gQB42HXU6MF2hAix1mqjo8i
 
 ![Bitcoin](https://github.com/user-attachments/assets/7ed32f8f-c499-46f0-a53c-3f6fbd343699)
 
 
+#### 📹 Видео на YouTube (кликните, чтобы открыть плейлист) 📹
+[![Youtube Playlist Thumbnail](https://raw.githubusercontent.com/svglan/screenshots/main/Youtube.png)](https://youtube.com/playlist?list=PLDtGd5Fw5_GjXCznR0BzCJJDIQSZJRbxx&si=iaNjLulFdsZ6AV-t)
+=======
+
 ####  📹 Youtube videos (Click to view and watch the playlist) 📹
 [![Youtube Playlist Thumbnail](https://raw.githubusercontent.com/svglan/screenshots/main/Youtube.png)](https://youtube.com/playlist?list=PLDtGd5Fw5_GjXCznR0BzCJJDIQSZJRbxx&si=iaNjLulFdsZ6AV-t)
+
 
 
 ## 🥰🥰 💖💖 👍👍👍
