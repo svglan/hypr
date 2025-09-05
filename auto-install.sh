@@ -1,5 +1,5 @@
 #!/bin/bash
-# https://github.com/JaKooLit
+# https://github.com/svglan/hypr
 
 # Set some colors for output messages
 OK="$(tput setaf 2)[OK]$(tput sgr0)"
@@ -18,9 +18,9 @@ SKY_BLUE="$(tput setaf 6)"
 RESET="$(tput sgr0)"
 
 # Variables
-Distro="Arch-Hyprland"
-Github_URL="https://github.com/JaKooLit/$Distro.git"
-Distro_DIR="$HOME/$Distro"
+Repo="hypr"
+Github_URL="https://github.com/svglan/$Repo.git"
+Distro_DIR="$HOME/$Repo"
 
 printf "\n%.0s" {1..1}
 

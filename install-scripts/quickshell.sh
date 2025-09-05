@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/JaKooLit 💫 #
+# 💫 https://github.com/svglan/hypr 💫 #
 # quickshell - for desktop overview replacing AGS
 
 if [[ $USE_PRESET = [Yy] ]]; then
