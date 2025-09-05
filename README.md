@@ -221,7 +221,9 @@ env = WLR_RENDERER_ALLOW_SOFTWARE,1
 ## 💖 Поддержка
 - Буду рад вашей ⭐ на репозиториях GitHub
 - Подпишитесь на мой канал YouTube [YouTube](https://www.youtube.com/@svglan)
-- Вы также можете поддержать меня кофе или BTC 😊
+- Вы также можете поддержать меня на [GitHub Sponsors](https://github.com/sponsors/svglan), кофе или BTC 😊
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-svglan-cba6f7?style=for-the-badge&logo=github)](https://github.com/sponsors/svglan)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/svglan)
 
