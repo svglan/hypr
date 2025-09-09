@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/svglan/hypr 💫 #
+# 💫 https://github.com/svglan/arch 💫 #
 # Final checking if packages are installed
 # NOTE: These package check are only the essentials
 

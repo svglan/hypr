@@ -110,7 +110,7 @@
 - added archlinux-keyring on base.sh
 
 ## 08 Aug 2024
-- Increased to 1 sec delay for installing base-devel [commit](https://github.com/svglan/hypr/commit/7ebfa06c3b186f9bec0bcf268fae401ba67dfc2a)
+- Increased to 1 sec delay for installing base-devel [commit](https://github.com/svglan/arch/commit/7ebfa06c3b186f9bec0bcf268fae401ba67dfc2a)
 
 ## 07 Jul 2024
 - added eza (ls replacement for tty). Note only on .zshrc

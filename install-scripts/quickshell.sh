@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/svglan/hypr 💫 #
+# 💫 https://github.com/svglan/arch 💫 #
 # quickshell - for desktop overview replacing AGS
 
 if [[ $USE_PRESET = [Yy] ]]; then

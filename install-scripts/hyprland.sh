@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/svglan/hypr 💫 #
+# 💫 https://github.com/svglan/arch 💫 #
 # Main Hyprland Package #
 
 hypr_eco=(
