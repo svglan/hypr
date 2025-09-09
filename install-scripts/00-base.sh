@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/svglan/hypr 💫 #
+# 💫 https://github.com/svglan/arch 💫 #
 # base-devel + archlinux-keyring #
 
 base=( 

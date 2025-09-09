@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/svglan/hypr 💫 #
+# 💫 https://github.com/svglan/arch 💫 #
 # Aylur's GTK Shell v 1.9.0 #
 # for desktop overview
 

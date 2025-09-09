@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/svglan/hypr 💫 #
+# 💫 https://github.com/svglan/arch 💫 #
 # SDDM themes #
 
 source_theme="https://github.com/svglan/simple-sddm-2.git"

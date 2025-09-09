@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/svglan/hypr 💫 #
+# 💫 https://github.com/svglan/arch 💫 #
 # Yay AUR Helper #
 # NOTE: If paru is already installed, yay will not be installed #
 

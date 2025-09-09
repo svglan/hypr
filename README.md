@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/svglan/Hyprland-Dots/main/assets/latte.png" width="400" />
 </p>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/svglan/hypr?style=for-the-badge&color=cba6f7) ![GitHub last commit](https://img.shields.io/github/last-commit/svglan/hypr?style=for-the-badge&color=b4befe) ![GitHub repo size](https://img.shields.io/github/repo-size/svglan/hypr?style=for-the-badge&color=cba6f7) 
+![GitHub Repo stars](https://img.shields.io/github/stars/svglan/arch?style=for-the-badge&color=cba6f7) ![GitHub last commit](https://img.shields.io/github/last-commit/svglan/arch?style=for-the-badge&color=b4befe) ![GitHub repo size](https://img.shields.io/github/repo-size/svglan/arch?style=for-the-badge&color=cba6f7) 
 
 <br/>
 </div>
@@ -137,7 +137,7 @@ env = WLR_RENDERER_ALLOW_SOFTWARE,1
 - Как указано выше, эти скрипты не содержат фактических конфигурационных файлов. Это только установщики пакетов.
 - Если хотите внести вклад и/или протестировать Hyprland‑Dotfiles (ветка разработки): [`Hyprland-Dots-Development`](https://github.com/svglan/Hyprland-Dots/tree/development)
 - Хотите внести вклад в KooL‑Hyprland‑Dots? Нажмите [`СЮДА`](https://github.com/svglan/Hyprland-Dots/blob/main/CONTRIBUTING.md) для руководства по внесению вклада.
-- Хотите внести вклад в этот установщик? Нажмите [`СЮДА`](https://github.com/svglan/hypr/blob/main/CONTRIBUTING.md) для руководства по внесению вклада.
+- Хотите внести вклад в этот установщик? Нажмите [`СЮДА`](https://github.com/svglan/arch/blob/main/CONTRIBUTING.md) для руководства по внесению вклада.
 
 #### 👍👍👍 Благодарности и кредиты
 - [`Hyprland`](https://hyprland.org/) — разумеется, Hyprland и @vaxerski за этот отличный динамический тайлинговый менеджер.
@@ -160,5 +160,5 @@ env = WLR_RENDERER_ALLOW_SOFTWARE,1
 
 
 ## 🥰🥰 💖💖 👍👍👍
-[![Stargazers over time](https://starchart.cc/svglan/hypr.svg?variant=adaptive)](https://starchart.cc/svglan/hypr)
+[![Stargazers over time](https://starchart.cc/svglan/arch.svg?variant=adaptive)](https://starchart.cc/svglan/arch)
 
