@@ -55,6 +55,26 @@ https://github.com/user-attachments/assets/49bc12b2-abaf-45de-a21c-67aacd9bb872
 - Поскольку Hyprland-Dots развивается, некоторые скриншоты могут быть устаревшими.
 - Обои, предлагаемые к загрузке в конце, взяты из этого [`REPO`](https://github.com/svglan/Wallpaper-Bank).
 
+## ✨ Auto clone and install
+> [!CAUTION] 
+> If you are using FISH SHELL, DO NOT use this function. Clone and ran install.sh instead
+
+- you can use this command to automatically clone the installer and ran the script for you
+- NOTE: `curl` package is required before running this command
+```bash
+sh <(curl -L https://raw.githubusercontent.com/svglan/arch/main/auto-install.sh)
+```
+
+## ✨ to use this script
+- clone this repo (latest commit only) to reduce file size download by using git. Change directory, make executable and run the script
+
+```bash
+git clone --depth=1 https://github.com/svglan/arch.git ~/Arch-Hyprland
+cd ~/Arch-Hyprland
+chmod +x install.sh
+./install.sh
+```
+
 > [!IMPORTANT]
 > Установите инструмент резервного копирования, например `snapper` или `timeshift`, и сделайте бэкап системы перед установкой Hyprland с помощью этого скрипта (НАСТОЯТЕЛЬНО РЕКОМЕНДУЕТСЯ).
 
